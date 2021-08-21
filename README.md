@@ -9,13 +9,11 @@ The overall goal of this project was to examine different Kickstarter datasets a
 ### Analysis of Outcomes Based on Launch Date
 In order to gather the information Louise needs, we first had to break down the data of outcomes based on their launch date. The idea here was to see if there is any correlation between the time of year and the success of a play. We filtered the Kickstarter data to only show data for the plays, followed by finding the number of successful, failed, and canceled plays for every month.
 
-![Theater_Outcomes_vs_Launch](path/to/Theater_Outcomes_vs_Launch.png) 
-
-
+![Theater_Outcomes_vs_Launch] (/Users/JSTEINY/Desktop/Bootcamp/crowdfunding analysis (Excel)/Resources Folder/Theater_Outcomes_vs_Launch.png) 
 ### Analysis of Outcomes Based on Goals
 The idea for gathering data based on the goals of each play funded by Kickstarter was to split up the goals of the funding from least to most. We wanted to see the percentage of successful, failed, and canceled plays with respect to how much money the plays set their goals to. 
 
-![Outcomes_vs_Goals](path/to/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals](/Users/JSTEINY/Desktop/Bootcamp/crowdfunding analysis (Excel)/Resources Folder/Outcomes_vs_Goals.png)
 
 
 ### Challenges and Difficulties Encountered
@@ -29,4 +27,3 @@ Some of the challenges encountered for me was getting the outcomes based on goal
 - Some of the limitations we faced in the outcomes and goals graph was not enough data to come to a strong conclusion in some aspects. For example, in the 45000-49999 goals range, there was only 1 play in there. It failed which made the fail rate 100%. Although the data did lean to a higher chance of failure if the goal was to high, it is hard to completely confirm the trend with such little data.
 
 - A possible graph or chart that could have been useful would be to make a similar graph we did with the outcomes based on goals, but not filtering just plays. It would have been interesting to see if there was a trend within the whole dataset of success and the goal. 
-
