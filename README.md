@@ -13,7 +13,7 @@ In order to gather the information Louise needs, we first had to break down the 
 The idea for gathering data based on the goals of each play funded by Kickstarter was to split up the goals of the funding from least to most. We wanted to see the percentage of successful, failed, and canceled plays with respect to how much money the plays set their goals to. 
 
 
-![Outcomes_vs_goals](Resources/Outcomes_vs_goals.png)
+![Outcomes_vs_goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 Some of the challenges encountered for me was getting the outcomes based on goals chart to look the way it does. I misunderstood what needed to be calculated, but after a few tries I was able to put it together.
